@@ -8,4 +8,4 @@ In this project we are going to explore some methods to deal with imbalanced dat
 5. SMOTEENN
 6. Smote + Tomek
 
-In addition to that, we will see how applying cost sensitive learning can affect the performance of the classifier.  
+In addition to that, we will see how applying cost sensitive learning can affect the performance of the classifier. To read the full article with the description of the techniques applied, it can be found [here](https://medium.com/@michell.payano.perez/imbalanced-data-2887d92951fd).
